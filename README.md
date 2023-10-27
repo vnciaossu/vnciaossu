@@ -65,7 +65,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://tmquy.io.vn/blog" target="blank">
-    <img src="https://www.tmquy.io.vn/gallery/var/albums/tmquy-blog-logo.png?m=1698393172" alt="tmquy-blog" />
+    <img width="100px" height="100px" style="border-radius: 50%;" src="https://www.tmquy.io.vn/gallery/var/albums/tmquy-blog-logo.png?m=1698393172" alt="tmquy-blog" />
   </a>
   <a href="https://facebook.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
